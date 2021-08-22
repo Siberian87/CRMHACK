@@ -1,4 +1,4 @@
-package hack_crm
+package main
 
 import (
 	"math/big"
